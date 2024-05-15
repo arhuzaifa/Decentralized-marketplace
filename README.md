@@ -2,6 +2,13 @@
 
 The Decentralized Marketplace is a blockchain-based platform designed to facilitate direct exchange between buyers and sellers without the need for intermediaries. The platform leverages blockchain technology to automate the exchange process and reduce fees associated with traditional marketplaces.
 
+## Features
+
+- **Job Postings:** Users can add job postings to the platform.
+- **Bidding System:** Multiple sellers can bid on a job posting.
+- **Selection Process:** Job posters can finalize a seller by selecting the one with the most feasible bid.
+- **Service Provider Search:** Users can search for service providers based on specific categories and request services from them.
+
 ## Technologies Used
 
 - React
@@ -12,13 +19,6 @@ The Decentralized Marketplace is a blockchain-based platform designed to facilit
 - MongoDB
 - Express.js
 - Solidity
-
-## Features
-
-- **Job Postings:** Users can add job postings to the platform.
-- **Bidding System:** Multiple sellers can bid on a job posting.
-- **Selection Process:** Job posters can finalize a seller by selecting the one with the most feasible bid.
-- **Service Provider Search:** Users can search for service providers based on specific categories and request services from them.
 
 ## Installation
 
