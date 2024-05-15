@@ -9,6 +9,13 @@ The Decentralized Marketplace is a blockchain-based platform designed to facilit
 - **Selection Process:** Job posters can finalize a seller by selecting the one with the most feasible bid.
 - **Service Provider Search:** Users can search for service providers based on specific categories and request services from them.
 
+## Usage
+
+1. Create an account on the platform.
+2. Add a job posting or search for service providers.
+3. Bid on job postings or respond to service requests.
+4. Finalize the job by selecting a seller with the most feasible bid.
+
 ## Technologies Used
 
 - React
@@ -29,13 +36,6 @@ To run the Decentralized Marketplace locally, follow these steps:
 3. Configure your MongoDB connection in the `.env` file.
 4. Start the backend server using `npm run start:server`.
 5. Start the frontend server using `npm run start:client`.
-
-## Usage
-
-1. Create an account on the platform.
-2. Add a job posting or search for service providers.
-3. Bid on job postings or respond to service requests.
-4. Finalize the job by selecting a seller with the most feasible bid.
 
 ## Future Development
 
